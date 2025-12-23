@@ -1,0 +1,30 @@
+[
+  {
+    "project_id": "demo-001",
+    "name": "ExampleSwap",
+    "chain": "Ethereum",
+    "category": "DeFi",
+    "website": "https://exampleswap.invalid",
+    "docs_url": "https://docs.exampleswap.invalid",
+    "repo_url": "https://github.com/example/exampleswap",
+    "launch_date": "2025-01-15",
+    "has_whitepaper": true,
+    "has_public_repo": true,
+    "team_identified": true,
+    "audit_reported": false
+  },
+  {
+    "project_id": "demo-002",
+    "name": "MysteryCoin",
+    "chain": "",
+    "category": "Meme",
+    "website": null,
+    "docs_url": null,
+    "repo_url": null,
+    "launch_date": null,
+    "has_whitepaper": false,
+    "has_public_repo": false,
+    "team_identified": false,
+    "audit_reported": false
+  }
+]
