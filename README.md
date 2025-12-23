@@ -1,15 +1,3 @@
-Perfect — below is a **polished, copy-paste-ready `README.md`** that:
-
-* Matches the **V2 milestone style and tone**
-* Clearly frames the project as **educational, research-oriented, and non-advisory**
-* Aligns with **GPL-3.0**
-* Sets expectations cleanly for Milestones 1–10
-* Is safe to share publicly with confidence
-
-After that, I’ve included a **<350-character project description** suitable for GitHub.
-
----
-
 # 📡 Crypto Project Risk Radar
 
 **Educational, AI-assisted research pipeline for evaluating risk and tradeoffs of emerging cryptocurrency projects**
