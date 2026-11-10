@@ -1,5 +1,7 @@
 # 📡 Crypto Project Risk Radar
 
+Co-Author: OpenAI's GPT-5.1
+
 **Educational, AI-assisted research pipeline for evaluating risk and tradeoffs of emerging cryptocurrency projects**
 *(Research only — not financial advice)*
 
